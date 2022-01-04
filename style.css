@@ -56,13 +56,15 @@ p{
     border-radius: 5px;
     box-shadow: 10px 10px 40px rgb(146, 142, 142);
 }
-#Baby-Web-Developer{
-    border-left: 7px solid;
-    border-image: linear-gradient(blue cyan);
-    border-image-slice: 1;
-}
 #Full-Stack-Web-Developer{
-    border-left: 7px solid;
-    border-image: linear-gradient(blue cyan);
-    border-image-slice: 1;
+    border-left:  7px solid;
+    border-image: linear-gradient(salmon, tomato) 1;
+
+}
+#Baby-Web-Developer{
+   border-left:  7px solid;
+    border-image: linear-gradient(darkblue, darkorchid) 1;
+}
+footer p{
+    text-align: center;
 }
